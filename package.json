@@ -1,0 +1,28 @@
+{
+  "name": "OkoAi",
+  "version": "2.0.0",
+  "description": "Simple WhatsApp Bot Created by Prksoo",
+  "main": "index.js",
+  "directories": {
+    "commands": "commands",
+    "events": "events",
+    "tools": "tools"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "cp config.example.json config.json && npm install",
+    "start": "node .",
+    "start:pm2": "pm2 start ./index.js --name $(basename $(pwd)) --cron-restart=\"*/30 * * * *\""
+  },
+  "author": "Prksoo",
+  "license": "MIT",
+  "dependencies": {
+    "@Prksoo22/okoai": "github:Prksoo22/okoai",
+    "axios": "^1.13.5",
+    "cfonts": "^3.3.1",
+    "jimp": "^0.22.12",
+    "link-preview-js": "^4.0.0",
+    "moment-timezone": "^0.6.0",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
