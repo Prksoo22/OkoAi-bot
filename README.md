@@ -10,7 +10,8 @@
 
 ## CARA MENERAPKAN KE SCRIPT ANDA
 
-```gitclone https://github.com/Prksoo22/OkoAi-bot
+```
+gitclone https://github.com/Prksoo22/OkoAi-bot
 npm start
 ```
 
@@ -24,7 +25,7 @@ npm start
 1. Converter
 2. Downloader
 3. Entertainment
-4. Game
+4. Game (Exclusive)
 5. Group
 6. Information
 7. Main
@@ -34,6 +35,8 @@ npm start
 11. Profile
 12. Search
 13. Tool
+14. Jadibot (Exclusive)
+15. Ai (Exclusive)
 
 ## PENTING - HARAP BACA!
 > Pada dasarnya, script full yang asli dari OkoAi dijual dan tidak disebar secara cuma-cuma. Tapi, karena saat ini terdapat event Ramadhan, kami membuka source code secara terbuka dan gratis. Tetapi tidak dilengkapi dengan full fitur! Anda dapat melengkapi kekurangan dari script ini dengan cara membeli script OkoAi.
