@@ -37,6 +37,8 @@ npm start
 13. Tool
 14. Jadibot (Exclusive)
 15. Ai (Exclusive)
+16. Listff (Exclusive)
+17. ListStore (Exclusive)
 
 ## PENTING - HARAP BACA!
 > Pada dasarnya, script full yang asli dari OkoAi dijual dan tidak disebar secara cuma-cuma. Tapi, karena saat ini terdapat event Ramadhan, kami membuka source code secara terbuka dan gratis. Tetapi tidak dilengkapi dengan full fitur! Anda dapat melengkapi kekurangan dari script ini dengan cara membeli script OkoAi.
